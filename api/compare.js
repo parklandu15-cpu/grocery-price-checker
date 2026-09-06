@@ -1,5 +1,5 @@
 const STORES=['Superstore','No Frills','Walmart','Safeway','Sobeys','Costco'];
-const BANNERS={Superstore:['real canadian superstore','superstore'],'No Frills':['no frills'],Walmart:['walmart'],Safeway:['safeway'],Sobeys:['sobeys']};
+const BANNERS={Superstore:['real canadian superstore','superstore','rcss'],'No Frills':['no frills','nofrills'],Walmart:['walmart'],Safeway:['safeway'],Sobeys:['sobeys']};{Superstore:['real canadian superstore','superstore'],'No Frills':['no frills'],Walmart:['walmart'],Safeway:['safeway'],Sobeys:['sobeys']};
 const LOCAL={
   Superstore:{milk:{price:6.35,notes:'Beatrice 1% 4L · Spruce Grove Superstore 1565'},eggs:{price:4.18,notes:'No Name large 12'},vector:{price:8.49,notes:'Kellogg’s Vector original'},bubly:{price:5.99,notes:'Bubly 12 pack'}},
   'No Frills':{milk:{price:6.35,notes:'Beatrice 1% 4L · Steve’s No Frills 3628'},eggs:{price:4.18,notes:'No Name large 12'},bubly:{price:6.50,notes:'Bubly 12 pack'}}
