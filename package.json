@@ -1,0 +1,1 @@
+{"name":"grocery-price-checker-mvp","private":true,"version":"0.2.0","type":"module","scripts":{"test":"node test-normalizer.mjs"}}
